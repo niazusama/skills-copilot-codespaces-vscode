@@ -1,4 +1,7 @@
-// create web server
+// create web server for comment
+//======================================
+
+//import module
 const express = require('express');
 const app = express();
 const bodyParser = require('body-parser');
